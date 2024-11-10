@@ -1,0 +1,40 @@
+const credentials=[
+  {
+    name:"kumar",
+    email:"kumar@gmail.com"
+  },
+  {
+    name:"sanjaya",
+    email:"sanjaya@gmail.com"
+  },
+  {
+    name:"samir",
+    email:"samir@gmail.com"
+  },
+  {
+    name:"kamal",
+    email:"kamal@gmail.com"
+  },
+  {
+    name:"mahesh",
+    email:"mahesh@gmail.com"
+  },
+  {
+    name:"aarap",
+    email:"aarap@gmail.com"
+  },
+  {
+    name:"saroj",
+    email:"saroj@gmail.com"
+  },
+  {
+    name:"supreme",
+    email:"supreme@gmail.com"
+  },
+  {
+    name:"krish",
+    email:"krish@gmail.com"
+  }
+];
+
+module.exports=credentials;
